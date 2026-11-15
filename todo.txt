@@ -1,0 +1,4 @@
+just enough workload for failure or just inject it honestly
+basic at least once semantics both producer and consumer
+
+just 1 main file
